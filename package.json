@@ -1,9 +1,9 @@
 {
-  "name": "rspec-snippets",
+  "name": "better-rspec-snippets",
   "version": "0.3.0",
   "private": true,
-  "description": "Rspec snippets in Atom",
-  "repository": "https://github.com/jonmagic/atom-rspec-snippets",
+  "description": "Rspec3 complient snippets for Atom",
+  "repository": "https://github.com/ekampp/atom-rspec-snippets",
   "license": "MIT",
   "engines": {
     "atom": "*",
@@ -11,6 +11,6 @@
   },
   "dependencies": {},
   "bugs": {
-    "url": "https://github.com/jonmagic/atom-rspec-snippets/issues"
+    "url": "https://github.com/ekampp/atom-rspec-snippets/issues"
   }
 }
