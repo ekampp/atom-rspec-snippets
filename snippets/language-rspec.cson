@@ -80,9 +80,6 @@
   'let':
     'prefix': 'let'
     'body': 'let(:${1:instance}) { $0 }'
-  'let!':
-    'prefix': 'let!'
-    'body': 'let!(:${1:instance}) { $0 }'
   'mock':
     'prefix': 'moc'
     'body': "${1:var} = mock('${2:mock_name}'${3:, :null_object => true})\n$0"
